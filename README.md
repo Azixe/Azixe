@@ -6,9 +6,12 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-   <p><b>“In the course of history, the past holds sway over the present, but in the recording of history, the present shapes the understanding of the past.” </b></p>
+   <div align="center">
+   <p><b>“In the course of history, the past holds sway over the present, but in the recording of history, the present shapes the understanding of the past.”</b></p>
+</div>
+
    <p>- I enjoy exploring diverse tech fields. 🤓</p>
-   <p>- I'm an undergraduate student from Tel-U Purwokerto. 👨‍🎓 </p>
+   <p>- I'm currently pursuing a Bachelor's degree in Tel-U Purwokerto. 👨‍🎓 </p>
    <p>- I enjoy playing RPG, mecha, and RTS games and experimenting with creative projects in SFM/Photoshop. 😁</p>
 </td>
 <td width="50%" align="center">
