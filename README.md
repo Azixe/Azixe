@@ -8,11 +8,12 @@
 <td width="50%" align="left">
    <div align="center">
    <p><b>“In the course of history, the past holds sway over the present, but in the recording of history, the present shapes the understanding of the past.”</b></p>
+      <hr>
 </div>
 
    <p>- I enjoy exploring diverse tech fields. 🤓</p>
    <p>- I'm currently pursuing a Bachelor's degree in Tel-U Purwokerto. 👨‍🎓 </p>
-   <p>- I enjoy playing RPG, mecha, and RTS games and experimenting with creative projects in SFM/Photoshop. 😁</p>
+   <p>- I enjoy playing RPG, Mecha, and RTS games and experimenting with creative projects in SFM/Photoshop. 😁</p>
 </td>
 <td width="50%" align="center">
    <img align="center" alt="Coding" width="450" src="https://media.tenor.com/cX92mi1p-NYAAAAM/coding-anime.gif">
