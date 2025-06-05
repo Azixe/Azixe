@@ -1,5 +1,5 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
-<h1 align="center">Hello! My name is Azixe</h1>
+<h1 align="center">Greetings! Welcome to my profile!</h1>
 <h3 align="center">Aspiring IT Student | Passionate about Learning and Growing</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Azixe&label=Profile+Views&color=5BCDEC&style=for-the-badge"></p>
 
