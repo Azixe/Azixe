@@ -29,6 +29,10 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
+
+<p align="center">
+   <img src="https://tryhackme-badges.s3.amazonaws.com/Azixe.png" alt="TryHackMe Badge">
+</p>
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Azixe&theme=dark&show_icons=true&count_private=true" />
   <br></br>
